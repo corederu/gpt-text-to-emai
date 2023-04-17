@@ -126,7 +126,7 @@ function displayMail(texte, id) {
 async function ShowNewMail(id, storage) {
   // change le boutton
   let bouton = document.getElementById("mail_to_ai_but" + id);
-  bouton.textContent = "Chargement...";
+  bouton.textContent = "Chargement";
   bouton.style.backgroundImage = "linear-gradient(to right, #d6d6d6, #f6f6f6)";
   bouton.style.color = "#333";
   bouton.disabled = true;
