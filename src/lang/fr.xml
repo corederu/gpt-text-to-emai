@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <build_api_key>Créer une clé API</build_api_key>
+    <input_api_key>Entrer la clé API ici...</input_api_key>
+    <save_but>Enregistrer</save_but>
+    <my_api_key>ma clé API : </my_api_key>
+    <convert_to_email>Transformer en mail</convert_to_email>
+    <loading>Chargement</loading>
+</root>
